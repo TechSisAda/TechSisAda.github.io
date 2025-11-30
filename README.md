@@ -1,4 +1,4 @@
-# [Your Name] - Data Analysis Portfolio
+# Adaeze Nnonyelu - Data Analysis Portfolio
 
 Welcome! This repository contains the complete template for a professional, one-page data analysis portfolio website, hosted for free on GitHub Pages.
 
